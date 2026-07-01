@@ -1,5 +1,5 @@
 {
-  "name": "wa-dashboard-config-management-agent",
+  "name": "config-management-agent",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
